@@ -4,7 +4,8 @@ description: [Un bot para discord que sirve para tomar asistencia en clases virt
 Link para implementar: https://discordapp.com/oauth2/authorize?client_id=723264112989045109&scope=bot&permissions=2146958847
 
 Comandos:
-* Requiere el rol de "Profesor".
+
+*Requiere el rol de "Profesor".
 
 abrirlista*: Abre la lista para que los alumnos puedan identificarse como presentes.
 
